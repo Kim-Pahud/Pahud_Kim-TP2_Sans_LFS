@@ -1,6 +1,4 @@
-- Ajouter l'alien + gameover quand (Timer fini ou mauvais cable couper) au lvl1
 - Ajouter un effet quand le joueur se connect (Black screen et re screen avec un blend space comme si le joueur était restart par l'ia)
-- Faire les animations pour l'ia
 - Faire le lvl2 (En cours)
 - Faire que l'ia entende les sons
 - Faire des objets avec une phisique qui emmettent du son quand ils tombent
