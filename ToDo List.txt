@@ -2,3 +2,9 @@
 - Faire le lvl2 (En cours)
 - Faire que l'ia entende les sons
 - Faire des objets avec une phisique qui emmettent du son quand ils tombent
+- Faire en sorte que l'occusion(dans l'atténuation des sons) sois plus forte quand il y a un couloir que quand c'est un mur de pièce
+- Faire un mode de difficulté ou la map est ouvrable(appuyuer M) et ne donne pas la pose du joueur (on la voie dans son ensemble (la map))
+- Faire un système de craft qui permet de crafter de quoi distraire l'alien
+- Retirer le son quand on regarde un code (!!!IMPORTANT CAR C TRES MOCHE!!!)
+- Mettre un son (i see you (reff granny)) quand l'alien nous a vu mais que il joue (les 3 mots sont dits par des voix totalement différentes et avec un délai entre chaques)
+- Trouver un moyen de rendre les BO cross level (pouvoir les gérer dans le game instance tout en gardant le fadeout de la BO chase)
