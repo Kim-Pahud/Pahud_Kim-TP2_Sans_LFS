@@ -8,3 +8,4 @@
 - Retirer le son quand on regarde un code (!!!IMPORTANT CAR C TRES MOCHE!!!)
 - Mettre un son (i see you (reff granny)) quand l'alien nous a vu mais que il joue (les 3 mots sont dits par des voix totalement différentes et avec un délai entre chaques)
 - Trouver un moyen de rendre les BO cross level (pouvoir les gérer dans le game instance tout en gardant le fadeout de la BO chase)
+- Ajouter des logs pour le lore
